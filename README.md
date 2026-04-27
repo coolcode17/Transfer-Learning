@@ -68,6 +68,6 @@ VGG19.*
 - Рекомендуется запуск с использованием GPU (например, в Google Colab).
 ## Как запустить проект
 1. Склонируйте репозиторий: `git clone https://github.com/coolcode17/Transfer-Learning.git`
-2. Откройте `4LABA.ipynb` в Jupyter Notebook или Google Colab.
+2. Откройте `Transfer-Learning.ipynb` в Jupyter Notebook или Google Colab.
 3. Убедитесь, что установлены все необходимые библиотеки: `tensorflow`, `opencv-python`, `pandas`, `matplotlib`, `scikit-learn`.
 4. Запустите ячейки по порядку. Датасет скачается автоматически через `kagglehub`.
