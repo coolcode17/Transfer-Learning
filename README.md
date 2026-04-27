@@ -58,7 +58,7 @@ VGG19.*
 
 ## Тестирование на пользовательских данных
 [cite_start]Все модели были проверены не только на отложенной тестовой выборке, но и на сторонних изображениях, подготовленных пользователем.
-> **<img src="https://github.com/coolcode17/Transfer-Learning/blob/main/sevenVGG16Unfrozen.PNG">*
+> **<img src="https://github.com/coolcode17/Transfer-Learning/blob/main/sevenUnfrozenVGG16.PNG">*
 > **<img src="https://github.com/coolcode17/Transfer-Learning/blob/main/ConfusionMatrix">*
 
 ## Технические требования и запуск
