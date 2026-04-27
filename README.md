@@ -57,13 +57,15 @@ VGG19.*
 >  *Разморозка последних 4 слоев сети VGG16.*
 
 ## Тестирование на пользовательских данных
-[cite_start]Все модели были проверены не только на отложенной тестовой выборке, но и на сторонних изображениях, подготовленных пользователем.
+Все модели были проверены не только на отложенной тестовой выборке, но и на сторонних изображениях, подготовленных мною.
 > **<img src="https://github.com/coolcode17/Transfer-Learning/blob/main/sevenUnfrozenVGG16.PNG">*
-> **<img src="https://github.com/coolcode17/Transfer-Learning/blob/main/ConfusionMatrix">*
+> 7 нарисованная в Paint.net
+> **<img src="https://github.com/coolcode17/Transfer-Learning/blob/main/ConfusionMatrix.PNG">*
+> ConfusionMatrix.*
 
 ## Технические требования и запуск
-- [cite_start]Операционная система: Windows или Linux.
-- [cite_start]Рекомендуется запуск с использованием GPU (например, в Google Colab).
+- Операционная система: Windows или Linux.
+- Рекомендуется запуск с использованием GPU (например, в Google Colab).
 ## Как запустить проект
 1. Склонируйте репозиторий: `git clone https://github.com/ВАШ_НИК/VGG16-Digits-Classification.git`
 2. Откройте `4LABA.ipynb` в Jupyter Notebook или Google Colab.
